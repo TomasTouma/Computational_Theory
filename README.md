@@ -13,6 +13,18 @@ The work in this repository is based on the [Secure Hash Standard (FIPS 180-4)](
 | `requirements.txt`  | Python packages needed to run the notebook                   |
 | `.gitignore`        | Files and folders excluded from version control              |
 
+## Problems
+
+| # | Problem                            | Status      | Issue                                                              |
+| - | ----------------------------------- | ----------- | ------------------------------------------------------------------- |
+| 1 | Representing SHA-256 Data           | ✅ Complete | [#1](https://github.com/TomasTouma/Computational_Theory/issues/1) |
+| 2 | SHA-256 Bitwise Operations          | 🔄 In progress | [#2](https://github.com/TomasTouma/Computational_Theory/issues/2) |
+| 3 | Generating the SHA-256 Constants    | ⏳ Not started | [#3](https://github.com/TomasTouma/Computational_Theory/issues/3) |
+| 4 | Padding and Parsing Messages        | ⏳ Not started | [#4](https://github.com/TomasTouma/Computational_Theory/issues/4) |
+| 5 | The SHA-256 Compression Function    | ⏳ Not started | [#5](https://github.com/TomasTouma/Computational_Theory/issues/5) |
+| 6 | Complete SHA-256                    | ⏳ Not started | [#6](https://github.com/TomasTouma/Computational_Theory/issues/6) |
+
+
 ## Setup
 
 You will need Python 3 and Git installed.
