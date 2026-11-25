@@ -21,8 +21,8 @@ The work in this repository is based on the [Secure Hash Standard (FIPS 180-4)](
 | 2 | SHA-256 Bitwise Operations          | ✅ Complete | [#2](https://github.com/TomasTouma/Computational_Theory/issues/2) |
 | 3 | Generating the SHA-256 Constants    | ✅ Complete | [#3](https://github.com/TomasTouma/Computational_Theory/issues/3) |
 | 4 | Padding and Parsing Messages        | ✅ Complete | [#4](https://github.com/TomasTouma/Computational_Theory/issues/4) |
-| 5 | The SHA-256 Compression Function    | 🔄 In progress | [#5](https://github.com/TomasTouma/Computational_Theory/issues/5) |
-| 6 | Complete SHA-256                    | ⏳ Not started | [#6](https://github.com/TomasTouma/Computational_Theory/issues/6) |
+| 5 | The SHA-256 Compression Function    | ✅ Complete | [#5](https://github.com/TomasTouma/Computational_Theory/issues/5) |
+| 6 | Complete SHA-256                    | 🔄 In progress | [#6](https://github.com/TomasTouma/Computational_Theory/issues/6) |
 
 
 ## Setup
